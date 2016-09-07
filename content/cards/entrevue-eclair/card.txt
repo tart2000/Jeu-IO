@@ -1,0 +1,37 @@
+Title: Entrevue éclair
+
+----
+
+Phase: experiment
+
+----
+
+Objectif: Estimez rapidement l'intérêt des usagers pour votre produit ou service
+
+----
+
+Topic: alignement, strategie, agilite
+
+----
+
+Capacity: 
+
+----
+
+Description: Au cours de rapides conversations avec des usagers potentiels, vous pouvez confirmer la validité de votre produit ou service, ou le réorienter.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 15
+
+----
+
+Pvalue: 25
+
+----
+
+Rvalue: 15

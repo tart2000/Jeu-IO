@@ -1,0 +1,33 @@
+Title: Programme de soutien à l'intrapreneuriat
+
+----
+
+Shortcode: IN
+
+----
+
+Objectif: Tirez profit de la performance des champions de votre organisation pour favoriser l'émergence d'innovations
+
+----
+
+Topic: attractivite, collaboration, strategie, agilite
+
+----
+
+Description: Vous investissez dans les employés ayant un profil d'intrapreneur afin de favoriser l'innovation interne et la prise d'initiatives transversales.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 5
+
+----
+
+Rvalue: 10

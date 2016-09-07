@@ -1,0 +1,37 @@
+Title: Crowdsourcing
+
+----
+
+Phase: create
+
+----
+
+Objectif: Tirez profit de l'intelligence collective pour générer des idées au-delà des frontières
+
+----
+
+Topic: alignement, differenciation, infrastructure
+
+----
+
+Capacity: plateforme-numerique-collaborative, programme-de-soutien-a-l-intrapreneuriat
+
+----
+
+Description: Vous recueillez un grand nombre d'idées en lançant des défis ou en posant des questions à la communauté sur une plateforme web.
+
+----
+
+Value: 50000
+
+----
+
+Cvalue: 40
+
+----
+
+Pvalue: 40
+
+----
+
+Rvalue: 60

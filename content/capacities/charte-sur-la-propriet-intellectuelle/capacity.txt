@@ -1,0 +1,33 @@
+Title: Charte sur la propriété intellectuelle
+
+----
+
+Shortcode: 
+
+----
+
+Objectif: Tirez le maximum de vos acquis
+
+----
+
+Topic: collaboration, agilite
+
+----
+
+Description: En négociant la gestion des droits sur la valeur créée au sein de votre coalition, vous vous protégez d'éventuels abus.
+
+----
+
+Value: 5000
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 5
+
+----
+
+Rvalue: 0

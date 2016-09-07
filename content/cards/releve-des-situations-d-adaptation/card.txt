@@ -1,0 +1,41 @@
+Title: Relevé des situations d'adaptation
+
+----
+
+Phase: research
+
+----
+
+Objectif: Affinez votre compréhension des usages actuels de votre clientèle
+
+----
+
+Topic: alignement, differenciation
+
+----
+
+Capacity: 
+
+----
+
+Description: 
+
+Vous observez les usages des produits ou services répondant à des enjeux similaires aux vôtres et recueillez de l'inspiration sur les manières d'adapter vos produits.
+
+**1 carte "Besoins de la clientèle" + 1 carte "Joueurs de l'industrie" + 5 points sociaux (S)**
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 
+
+----
+
+Pvalue: 
+
+----
+
+Rvalue: 

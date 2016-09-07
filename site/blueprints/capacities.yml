@@ -1,0 +1,16 @@
+title: Capacities
+pages:
+  template:
+    - capacity
+  num:
+    mode: default
+    display: null
+  max: null
+  limit: 20
+  sort: false
+  hide: false
+files: false
+fields:
+  title:
+    label: Title
+    type: title

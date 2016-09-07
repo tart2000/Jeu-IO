@@ -1,0 +1,41 @@
+Title: Benchmark de positionnement
+
+----
+
+Phase: research
+
+----
+
+Objectif: Découvrez comment vous pouvez vous positionner par rapport à votre concurrence
+
+----
+
+Topic: alignement, differenciation, strategie
+
+----
+
+Capacity: 
+
+----
+
+Description: 
+
+Vous faites l'inventaire des produits ou services de vos concurrents pour bien définir le meilleur investissement pour vous dans le marché.
+
+**2 cartes "Tendances du marché"**
+
+----
+
+Value: 5000
+
+----
+
+Cvalue: 
+
+----
+
+Pvalue: 
+
+----
+
+Rvalue: 

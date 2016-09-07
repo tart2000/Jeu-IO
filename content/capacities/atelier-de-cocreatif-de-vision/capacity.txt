@@ -1,0 +1,33 @@
+Title: Atelier de cocréatif de vision
+
+----
+
+Shortcode: 
+
+----
+
+Objectif: Construisez une vision collective
+
+----
+
+Topic: collaboration, strategie
+
+----
+
+Description: En rassemblant toutes les parties prenantes pour définir les orientations, vous vous assurerez que le projet atteindra ses objectifs.
+
+----
+
+Value: 5000
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 0
+
+----
+
+Rvalue: 5

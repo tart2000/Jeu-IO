@@ -1,0 +1,41 @@
+Title: Résidence d'observation ethnographique
+
+----
+
+Phase: research
+
+----
+
+Objectif: Approfondissez votre compréhension des besoins et contraintes de votre clientèle ou de vos parties prenantes
+
+----
+
+Topic: alignement, differenciation
+
+----
+
+Capacity: 
+
+----
+
+Description: 
+
+Vous observez des usagers dans leur cadre naturel et comprenez leurs perceptions, leurs motivations et leurs goûts relatifs au contexte d'usage du produit ou service.
+
+**2 cartes "Besoins de la clientèle" + 3 cartes "Joueurs de l'industrie" + 15 points sociaux (S)**
+
+----
+
+Value: 20000
+
+----
+
+Cvalue: 
+
+----
+
+Pvalue: 
+
+----
+
+Rvalue: 

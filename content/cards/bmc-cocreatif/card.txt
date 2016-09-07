@@ -1,0 +1,37 @@
+Title: BMC cocréatif (Business Model Canevas)
+
+----
+
+Phase: create
+
+----
+
+Objectif: Tirez profit de la divergence des points de vue pour concevoir une stratégie d'affaires viable
+
+----
+
+Topic: attractivite, strategie, agilite
+
+----
+
+Capacity: mettre-en-place-un-change-lab, mettre-en-place-un-hub-d-innovation, programme-de-soutien-a-l-intrapreneuriat
+
+----
+
+Description: Trois jours d'ateliers avec vos employés et vos parties prenantes vous permettent de définir des modèles complémentaires de manière collaborative.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 25
+
+----
+
+Pvalue: 20
+
+----
+
+Rvalue: 15

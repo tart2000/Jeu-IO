@@ -1,0 +1,52 @@
+title: Card
+pages: false
+files: false
+fields:
+  title:
+    label: Titre
+    type: title
+  phase:
+  	label: Phase
+  	type: select
+  	options:
+    	research: Recherche
+    	create: Créer
+    	explore: Explorer 
+    	experiment: Expérimenter
+    	evaluate: Evaluer
+  objectif: 
+  	label: Objectif 
+  	type: text
+  topic: 
+  	label: Enjeux associées
+  	type: checkboxes
+  	options: query
+  	query: 
+  		page: topics
+  		text: '{{uid}} {{icon}}'
+  capacity: 
+  	label: Capacités associées
+  	type: checkboxes
+  	options: query
+  	query: 
+  		page: capacities 
+  description: 
+  	label: Description 
+  	type: textarea
+  value: 
+  	label: Valeur IO
+  	type: number 
+  	width: 1/4 
+  cvalue: 
+  	label: Valeur C
+  	type: number
+  	width: 1/4 
+  pvalue: 
+  	label: Valeur P 
+  	type: number 
+  	width: 1/4
+  rvalue: 
+  	label: Valeur R
+  	type: number
+  	width: 1/4 
+

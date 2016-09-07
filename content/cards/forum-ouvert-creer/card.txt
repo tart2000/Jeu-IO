@@ -1,0 +1,37 @@
+Title: Forum ouvert
+
+----
+
+Phase: create
+
+----
+
+Objectif: Ouvrez vos horizons en profitant de l'expérience collective
+
+----
+
+Topic: alignement, collaboration
+
+----
+
+Capacity: mettre-en-place-un-hub-d-innovation
+
+----
+
+Description: Vous obtenez un bon aperçu des opinions qui circulent dans votre écosystème pendant une journée de conférences où les participants présentent tour à tour leur point de vue sur un sujet qui vous intéresse.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 35
+
+----
+
+Pvalue: 30
+
+----
+
+Rvalue: 20

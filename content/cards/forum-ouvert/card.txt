@@ -1,0 +1,41 @@
+Title: Forum ouvert
+
+----
+
+Phase: research
+
+----
+
+Objectif: Développez une compréhension générale de votre contexte d'intervention en donnant la parole à votre écosystème
+
+----
+
+Topic: alignement, differenciation
+
+----
+
+Capacity: 
+
+----
+
+Description: 
+
+Vous recueillez le point de vue de personnes variées dans votre contexte d'intervention sur le sujet qui vos intéresse. 
+
+**1 carte "Besoins de la clientèle" + 1 carte "Joueurs de l'industrie" + 1 carte "Tendances du marché" + 10 points sociaux (S)**
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 
+
+----
+
+Pvalue: 
+
+----
+
+Rvalue: 

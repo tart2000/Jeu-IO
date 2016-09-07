@@ -1,0 +1,37 @@
+Title: Atelier de conversation de la communauté d'usagers
+
+----
+
+Phase: evaluate
+
+----
+
+Objectif: Survolez les histoires individuelles derrière les usages
+
+----
+
+Topic: alignement, differenciation, collaboration, strategie
+
+----
+
+Capacity: mettre-en-place-un-hub-d-innovation
+
+----
+
+Description: Lors de ces conversations,  vous circonscrivez de manière narrative l'expérience usager vécue sur le produit ou le service.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 30
+
+----
+
+Pvalue: 25
+
+----
+
+Rvalue: 20

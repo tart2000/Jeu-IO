@@ -1,0 +1,33 @@
+Title: Mettre en place un Change Lab
+
+----
+
+Shortcode: CL
+
+----
+
+Objectif: Développez vos capacités organisationnelles en mobilisant l'intelligence collective de l'organisation
+
+----
+
+Topic: attractivite, collaboration
+
+----
+
+Description: Vous favorisez le développement de compétences, trouvez des solutions innovantes aux problèmes de votre organisation et favorisez une transformation organisationnelle durable.
+
+----
+
+Value: 35000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 10
+
+----
+
+Rvalue: 15

@@ -1,0 +1,37 @@
+Title: Animation d'un réseau social d'entreprise
+
+----
+
+Phase: create
+
+----
+
+Objectif: Créez une culture de collaboration dans votre organisation pour harmoniser vos actions
+
+----
+
+Topic: attractivite, collaboration, infrastructure, reduction-des-couts
+
+----
+
+Capacity: mettre-en-place-un-change-lab, plateforme-numerique-collaborative, programme-de-soutien-a-l-intrapreneuriat
+
+----
+
+Description: Vous facilitez les flux de communication et permettez à tous d'avoir une bonne visibilité sur l'ensemble de l'organisation.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 40
+
+----
+
+Pvalue: 45
+
+----
+
+Rvalue: 45

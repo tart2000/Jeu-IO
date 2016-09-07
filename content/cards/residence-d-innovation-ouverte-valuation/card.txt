@@ -1,0 +1,37 @@
+Title: Résidence d'innovation ouverte - évaluation
+
+----
+
+Phase: evaluate
+
+----
+
+Objectif: Évaluez le produit ou le service en vivant les usages dans la durée au sein du milieu de vie des usagers
+
+----
+
+Topic: differenciation, collaboration, strategie, agilite
+
+----
+
+Capacity: mettre-en-place-un-living-lab
+
+----
+
+Description: Pendant cette résidence d'une semaine dans le milieu de vie des usagers, vous évaluez *in situ* les déterminants du produit ou du service.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 90
+
+----
+
+Pvalue: 75
+
+----
+
+Rvalue: 70

@@ -1,0 +1,41 @@
+Title: Entrevues semi-dirigées
+
+----
+
+Phase: research
+
+----
+
+Objectif: Approfondissez votre compréhension des besoins et contraintes de votre clientèle ou de vos parties prenantes
+
+----
+
+Topic: alignement, differenciation
+
+----
+
+Capacity: 
+
+----
+
+Description: 
+
+Vous recueillez le point de vue de vos usagers sur un sujet qui vous intéresse et comprenez leurs perceptions, leurs goûts, leurs contraintes et ce qui les motive. 
+
+**1 carte "Besoins de la clientèle" + 5 points sociaux (S) **
+
+----
+
+Value: 5000
+
+----
+
+Cvalue: 
+
+----
+
+Pvalue: 
+
+----
+
+Rvalue: 

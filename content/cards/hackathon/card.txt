@@ -1,0 +1,37 @@
+Title: Hackathon
+
+----
+
+Phase: create
+
+----
+
+Objectif: Prototypez collectivement et rapidement des solutions numériques tangibles
+
+----
+
+Topic: collaboration, infrastructure, agilite, reduction-des-couts
+
+----
+
+Capacity: investir-dans-la-communaute-de-start-ups, mettre-en-place-un-hub-d-innovation
+
+----
+
+Description: Après 48h de travail en équipes transdisciplinaires sur des défis qu'ils ont choisis, les participants présentent des prototypes fonctionnels d'applications numériques.
+
+----
+
+Value: 60000
+
+----
+
+Cvalue: 60
+
+----
+
+Pvalue: 60
+
+----
+
+Rvalue: 60

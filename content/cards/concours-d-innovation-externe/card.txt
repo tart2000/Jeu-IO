@@ -1,0 +1,37 @@
+Title: Concours d'innovation externe
+
+----
+
+Phase: create
+
+----
+
+Objectif: Tirez profit des compétences et du savoir-faire de l'écosystème pour trouver des idées
+
+----
+
+Topic: alignement, differenciation, agilite
+
+----
+
+Capacity: investir-dans-la-communaute-de-start-ups
+
+----
+
+Description: Vous générez des idées innovantes grâce à l'apport de points de vue extérieurs au projet en faisant appel à des usagers, des start-ups, des développeurs, des designers, etc.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 20
+
+----
+
+Rvalue: 35

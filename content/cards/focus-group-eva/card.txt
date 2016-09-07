@@ -1,0 +1,37 @@
+Title: Focus group
+
+----
+
+Phase: evaluate
+
+----
+
+Objectif: Survolez les histoires individuelles derrière les usages
+
+----
+
+Topic: alignement, differenciation
+
+----
+
+Capacity: 
+
+----
+
+Description: Vous recueillez les commentaires et réactions des usagers et de certaines parties prenantes au cours de cet atelier de discussion de 2 à 3 heures.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 20
+
+----
+
+Rvalue: 15

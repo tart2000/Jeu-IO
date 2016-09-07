@@ -1,0 +1,33 @@
+Title: Rencontre de réseautage
+
+----
+
+Shortcode: 
+
+----
+
+Objectif: Développez votre réseau
+
+----
+
+Topic: collaboration
+
+----
+
+Description: Grâce à cet événement rassemblant tout votre entourage, vous approfondissez les liens avec vos partenaires, étendez votre réseau et consolidez votre écosystème.
+
+----
+
+Value: 500
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 0
+
+----
+
+Rvalue: 0

@@ -1,0 +1,37 @@
+Title: Mission donnée aux usagers
+
+----
+
+Phase: explore
+
+----
+
+Objectif: Approfondissez votre compréhension d'un point critique à l'adoption
+
+----
+
+Topic: alignement, differenciation, strategie, agilite
+
+----
+
+Capacity: mettre-en-place-un-living-lab
+
+----
+
+Description: Pendant ce travail de documentation de certaines habitudes dans leur vie quotidienne, les usagers participants rassemblent des témoignages de leurs usages qui influenceront la prise de décision stratégique.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 30
+
+----
+
+Pvalue: 45
+
+----
+
+Rvalue: 25

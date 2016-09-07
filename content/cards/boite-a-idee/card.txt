@@ -1,0 +1,37 @@
+Title: Boite à idée
+
+----
+
+Phase: create
+
+----
+
+Objectif: Rassemblez rapidement des idées sommaires sur le pan créatif
+
+----
+
+Topic: attractivite, collaboration
+
+----
+
+Capacity: mettre-en-place-un-change-lab
+
+----
+
+Description: Vous rassemblez un grand nombre d'idées en mettant à la disposition de votre équipe une boite ou un site web pendant plusieurs semaines.
+
+----
+
+Value: 3000
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 5
+
+----
+
+Rvalue: 10

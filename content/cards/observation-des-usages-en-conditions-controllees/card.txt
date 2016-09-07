@@ -1,0 +1,37 @@
+Title: Observation des usages en conditions contrôllées
+
+----
+
+Phase: experiment
+
+----
+
+Objectif: Surveillez certains aspects des usages en observation directe
+
+----
+
+Topic: alignement, differenciation, agilite
+
+----
+
+Capacity: 
+
+----
+
+Description: Vous recueillez les commentaires sur votre produit ou service lors d'un banc d'essai rassemblant un échantillon d'usagers dans un environnement contrôlé.
+
+----
+
+Value: 50000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 45
+
+----
+
+Rvalue: 50

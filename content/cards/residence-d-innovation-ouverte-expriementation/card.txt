@@ -1,0 +1,37 @@
+Title: Résidence d'innovation ouverte - expériementation
+
+----
+
+Phase: experiment
+
+----
+
+Objectif: Observez les usages dans la durée au sein du milieu de vie des usagers
+
+----
+
+Topic: alignement, differenciation, collaboration, agilite
+
+----
+
+Capacity: mettre-en-place-un-living-lab
+
+----
+
+Description: Pendant cette résidence d'une semaine dans le milieu de vie des usagers, vous ciblez des pistes d'amélioration et des usages potentiels de votre produit ou service en étudiant les usagers de manière proactive (apprentissage par observation par exemple).
+
+----
+
+Value: 25000
+
+----
+
+Cvalue: 90
+
+----
+
+Pvalue: 75
+
+----
+
+Rvalue: 70

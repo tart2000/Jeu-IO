@@ -1,0 +1,37 @@
+Title: Focus group
+
+----
+
+Phase: create
+
+----
+
+Objectif: Générez rapidement des idées sommaires sur le plan créatif
+
+----
+
+Topic: alignement, differenciation, strategie
+
+----
+
+Capacity: 
+
+----
+
+Description: Vous recueillez les commentaires et réactions des usagers et de certaines parties prenantes au cours de cet atelier de discussion de 2 à 3h.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 20
+
+----
+
+Rvalue: 15

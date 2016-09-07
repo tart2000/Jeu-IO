@@ -1,0 +1,37 @@
+Title: Atelier d'évaluation multi-parties prenantes
+
+----
+
+Phase: evaluate
+
+----
+
+Objectif: Comparez le point de vue de tous sur l'usage du produit ou du service
+
+----
+
+Topic: alignement, differenciation, strategie, reduction-des-couts
+
+----
+
+Capacity: 
+
+----
+
+Description: Après cet atelier, vous mettez en lumière des écarts pouvant exister entre les différentes évaluations de l'expérience usager du produit ou du service.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 40
+
+----
+
+Pvalue: 50
+
+----
+
+Rvalue: 25

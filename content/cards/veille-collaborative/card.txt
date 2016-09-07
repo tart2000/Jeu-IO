@@ -1,0 +1,37 @@
+Title: Veille collaborative (testeurs-usagers)
+
+----
+
+Phase: explore
+
+----
+
+Objectif: Tirez profit de la masse pour partager le risque
+
+----
+
+Topic: alignement, differenciation, collaboration, agilite
+
+----
+
+Capacity: 
+
+----
+
+Description: Les communautés impliquées dans le projet deviennent des relais pour assurer une veille concurrentielle en continu sur les tendances, démultipliant ainsi son efficacité.
+
+----
+
+Value: 30000
+
+----
+
+Cvalue: 55
+
+----
+
+Pvalue: 30
+
+----
+
+Rvalue: 30

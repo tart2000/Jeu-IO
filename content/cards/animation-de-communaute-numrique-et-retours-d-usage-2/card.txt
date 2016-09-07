@@ -1,0 +1,37 @@
+Title: Animation de communauté numérique et retours d'usage
+
+----
+
+Phase: evaluate
+
+----
+
+Objectif: Approfondissez les histoires des usagers derrière les usages
+
+----
+
+Topic: alignement, differenciation, attractivite, infrastructure
+
+----
+
+Capacity: plateforme-numerique-collaborative
+
+----
+
+Description: Vous utilisez votre plateforme numérique pour recueillir en continu les commentaires des usagers qui utilisent vos produits ou services.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 40
+
+----
+
+Pvalue: 55
+
+----
+
+Rvalue: 55

@@ -1,0 +1,33 @@
+Title: Mettre en place un hub d'innovation
+
+----
+
+Shortcode: HB
+
+----
+
+Objectif: Créez un espace de maillage et de partenariats entre organisations, innovateurs, entreprises et usagers
+
+----
+
+Topic: alignement, collaboration, infrastructure, agilite
+
+----
+
+Description: Vous permettez aux organisations de votre secteur de générer de l'innovation collective et favorisez la formation d'une communauté d'innovation près de vous.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 5
+
+----
+
+Rvalue: 15

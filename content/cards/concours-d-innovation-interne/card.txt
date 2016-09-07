@@ -1,0 +1,37 @@
+Title: Concours d'innovation interne
+
+----
+
+Phase: create
+
+----
+
+Objectif: Tirez profit des compétences et du savoir-faire des membres de l'organisation
+
+----
+
+Topic: attractivite, collaboration, agilite
+
+----
+
+Capacity: mettre-en-place-un-change-lab, programme-de-soutien-a-l-intrapreneuriat
+
+----
+
+Description: Grâce aux projets soumis par vos employés, vous positionnez votre offre de manière plus innovante dans le marché.
+
+----
+
+Value: 20000
+
+----
+
+Cvalue: 55
+
+----
+
+Pvalue: 45
+
+----
+
+Rvalue: 30

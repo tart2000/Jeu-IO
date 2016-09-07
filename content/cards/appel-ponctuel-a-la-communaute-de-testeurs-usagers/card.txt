@@ -1,0 +1,37 @@
+Title: Appel ponctuel à la communauté de testeurs-usagers
+
+----
+
+Phase: explore
+
+----
+
+Objectif: Tirez profit de l'expérience des usagers
+
+----
+
+Topic: alignement, differenciation, reduction-des-couts
+
+----
+
+Capacity: 
+
+----
+
+Description: Les communautés d'usagers répondent par des solutions variées à la problématique que vous leur soumettez.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 55
+
+----
+
+Pvalue: 30
+
+----
+
+Rvalue: 30

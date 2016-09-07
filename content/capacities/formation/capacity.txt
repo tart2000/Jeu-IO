@@ -1,0 +1,33 @@
+Title: Formation
+
+----
+
+Shortcode: 
+
+----
+
+Objectif: Développez vos connaissances
+
+----
+
+Topic: attractivite
+
+----
+
+Description: Vous choisissez d'améliorer vos compétences dans un domaine pour améliorer votre performance.
+
+----
+
+Value: 2500
+
+----
+
+Cvalue: 0
+
+----
+
+Pvalue: 0
+
+----
+
+Rvalue: 5

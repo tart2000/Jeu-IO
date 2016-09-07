@@ -1,0 +1,41 @@
+Title: Revue de littérature
+
+----
+
+Phase: research
+
+----
+
+Objectif: Prenez connaissance des recherches scientifiques qui peuvent vous aider dans votre démarche
+
+----
+
+Topic: alignement, differenciation
+
+----
+
+Capacity: 
+
+----
+
+Description: 
+
+Vous faites l'inventaire des avancées scientifiques susceptibles d'influencer vos interventions et mettez ainsi toutes les chances de votre côté pour innover...
+
+**1 carte "Tendances du marché"**
+
+----
+
+Value: 3000
+
+----
+
+Cvalue: 
+
+----
+
+Pvalue: 
+
+----
+
+Rvalue: 

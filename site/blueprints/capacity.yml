@@ -1,0 +1,41 @@
+title: Capacity
+pages: false
+files: false
+fields:
+  title:
+    label: Title
+    type: title
+    width: 1/2
+  shortcode:
+  	label: Acronyme
+  	type: text
+  	width: 1/2
+  objectif: 
+  	label: Objectif 
+  	type: text
+  topic: 
+  	label: Enjeux associées
+  	type: checkboxes
+  	options: query
+  	query: 
+  		page: topics
+  		text: '{{uid}} {{icon}}'
+  description: 
+  	label: Description 
+  	type: textarea
+  value: 
+  	label: Valeur IO
+  	type: number
+  	width: 1/4
+  cvalue: 
+  	label: Valeur C
+  	type: number
+  	width: 1/4 
+  pvalue: 
+  	label: Valeur P 
+  	type: number 
+  	width: 1/4
+  rvalue: 
+  	label: Valeur R
+  	type: number
+  	width: 1/4 

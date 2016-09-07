@@ -1,0 +1,33 @@
+Title: Investir dans la communauté de start-ups
+
+----
+
+Objectif: Tirez profit de l'expérience des organisations à la fine pointe de l'innovation de votre secteur
+
+----
+
+Description: Vous investissez dans de jeunes entreprises innovantes proches de vous afin de bénéficier des innovations de rupture dans votre marché.
+
+----
+
+Value: 35000
+
+----
+
+Shortcode: SU
+
+----
+
+Cvalue: 15
+
+----
+
+Pvalue: 5
+
+----
+
+Rvalue: 15
+
+----
+
+Topic: differenciation, collaboration, agilite, reduction-des-couts

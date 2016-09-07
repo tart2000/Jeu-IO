@@ -1,0 +1,37 @@
+Title: Résidence d'innovation ouverte - exploration
+
+----
+
+Phase: explore
+
+----
+
+Objectif: Confrontez vos perceptions à la réalité terrain
+
+----
+
+Topic: alignement, differenciation, collaboration, agilite
+
+----
+
+Capacity: mettre-en-place-un-living-lab
+
+----
+
+Description: Pendant cette résidence d'une semaine dans le milieu de vie des usagers, vous recueillez des données qui confrontent les pistes que vous aviez définies lors de la phase de cocréation.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 90
+
+----
+
+Pvalue: 75
+
+----
+
+Rvalue: 70

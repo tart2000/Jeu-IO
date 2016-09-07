@@ -1,0 +1,33 @@
+Title: Mettre en place un FabLab
+
+----
+
+Shortcode: FL
+
+----
+
+Objectif: Implantez un espace de prototypage accessible à votre communauté
+
+----
+
+Topic: collaboration, infrastructure, agilite, reduction-des-couts
+
+----
+
+Description: Vous investissez dans la création d'un espace de créativité ouvert à la communauté qui favorise l'innovation par le prototypage d'objets.
+
+----
+
+Value: 25000
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 10
+
+----
+
+Rvalue: 15

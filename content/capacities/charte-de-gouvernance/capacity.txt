@@ -1,0 +1,33 @@
+Title: Charte de gouvernance
+
+----
+
+Shortcode: 
+
+----
+
+Objectif: Mettez en place une structure d'ouverture adéquate
+
+----
+
+Topic: collaboration, agilite
+
+----
+
+Description: En définissant les processus de communication et de collaboration entre les parties prenantes, vous mettez toutes les chances de votre côté pour gagner en efficacité.
+
+----
+
+Value: 5000
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 5
+
+----
+
+Rvalue: 0

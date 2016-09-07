@@ -1,0 +1,37 @@
+Title: Banc d'essai avec la communauté d'usagers-testeurs
+
+----
+
+Phase: experiment
+
+----
+
+Objectif: Examinez les usages en observation directe
+
+----
+
+Topic: alignement, agilite
+
+----
+
+Capacity: mettre-en-place-un-hub-d-innovation
+
+----
+
+Description: Les produits ou les services sont utilisés dans des conditions contrôlées par un échantillon d'usagers qui suggèrent les aspects à encourager et ceux à améliorer.
+
+----
+
+Value: 50000
+
+----
+
+Cvalue: 75
+
+----
+
+Pvalue: 55
+
+----
+
+Rvalue: 60

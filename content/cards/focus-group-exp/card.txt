@@ -1,0 +1,37 @@
+Title: Focus group
+
+----
+
+Phase: explore
+
+----
+
+Objectif: Détaillez les idées basées sur les impressions des participants
+
+----
+
+Topic: alignement, differenciation
+
+----
+
+Capacity: 
+
+----
+
+Description: Vous approfondissez voter compréhension des besoins des usagers au cours de cet atelier de discussion de 2 à 3 heures.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 20
+
+----
+
+Rvalue: 15

@@ -1,0 +1,9 @@
+Title: Développement et production
+
+----
+
+Icon: cogs
+
+----
+
+Description: Réduction des coûts, efficience, consolidation de la chaîne de valeur

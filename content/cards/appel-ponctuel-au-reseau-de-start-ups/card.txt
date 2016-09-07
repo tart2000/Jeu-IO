@@ -1,0 +1,37 @@
+Title: Appel ponctuel au réseau de start-ups
+
+----
+
+Phase: explore
+
+----
+
+Objectif: Tirez profit des expériences de l'écosystème entrepreneurial
+
+----
+
+Topic: alignement, differenciation, agilite, reduction-des-couts
+
+----
+
+Capacity: investir-dans-la-communaute-de-start-ups
+
+----
+
+Description: La communauté de start-ups de l'industrie répond par des solutions audacieuses à la problématique que vous lui soumettez.
+
+----
+
+Value: 3000
+
+----
+
+Cvalue: 20
+
+----
+
+Pvalue: 25
+
+----
+
+Rvalue: 30

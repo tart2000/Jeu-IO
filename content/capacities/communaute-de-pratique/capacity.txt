@@ -1,0 +1,33 @@
+Title: Communauté de pratique
+
+----
+
+Shortcode: 
+
+----
+
+Objectif: Apprenez de vos expériences collectives
+
+----
+
+Topic: attractivite, collaboration
+
+----
+
+Description: En mettant en place cette communauté, vous permettez à tous vos participants de s'épanouir professionnellement pour être plus proactifs dans leur travail.
+
+----
+
+Value: 15000
+
+----
+
+Cvalue: 5
+
+----
+
+Pvalue: 10
+
+----
+
+Rvalue: 10

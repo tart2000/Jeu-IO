@@ -1,0 +1,37 @@
+Title: Brainstorming collectif des parties prenantes
+
+----
+
+Phase: create
+
+----
+
+Objectif: Tenez compte des intérêts de tous et créez de la valeur pour chacun
+
+----
+
+Topic: alignement, differenciation, collaboration, strategie
+
+----
+
+Capacity: mettre-en-place-un-living-lab
+
+----
+
+Description: Pendant une journée de réflexion collective regroupant toutes les parties prenantes, vous générez des idées qui satisfont les intérêts de tous.
+
+----
+
+Value: 3000
+
+----
+
+Cvalue: 15
+
+----
+
+Pvalue: 20
+
+----
+
+Rvalue: 10

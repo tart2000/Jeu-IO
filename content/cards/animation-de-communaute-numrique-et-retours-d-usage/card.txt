@@ -1,0 +1,37 @@
+Title: Animation de communauté numérique et retours d'usage
+
+----
+
+Phase: experiment
+
+----
+
+Objectif: Surveillez les usages sans observer les usagers
+
+----
+
+Topic: alignement, differenciation, collaboration, infrastructure
+
+----
+
+Capacity: plateforme-numerique-collaborative
+
+----
+
+Description: Vous utilisez votre plateforme numérique pour recueillir en continu les commentaires des usagers qui utilisent vos produits ou vos services.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 50
+
+----
+
+Pvalue: 45
+
+----
+
+Rvalue: 55

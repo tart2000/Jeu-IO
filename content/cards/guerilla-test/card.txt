@@ -1,0 +1,37 @@
+Title: Guerilla-test
+
+----
+
+Phase: experiment
+
+----
+
+Objectif: Faîtes essayer votre produit ou service par les usagers
+
+----
+
+Topic: alignement, agilite
+
+----
+
+Capacity: 
+
+----
+
+Description: En présentant une version simplifiée de votre produit ou service, vous recueillez des commentaires et des suggestions d'amélioration.
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 30
+
+----
+
+Pvalue: 45
+
+----
+
+Rvalue: 30

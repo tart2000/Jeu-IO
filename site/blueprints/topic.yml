@@ -1,0 +1,13 @@
+title: Topic
+pages: false
+files: false
+fields:
+  title:
+    label: Titre
+    type: title
+  icon: 
+  	label: Icone
+  	type: text 
+  description: 
+  	label: Description 
+  	type: text 

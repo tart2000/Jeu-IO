@@ -1,0 +1,37 @@
+Title: Défi dans un FabLab
+
+----
+
+Phase: create
+
+----
+
+Objectif: Créez des concepts et des idées en tirant profit d'une installation de prototypage permanente
+
+----
+
+Topic: collaboration, infrastructure
+
+----
+
+Capacity: mettre-en-place-un-fablab
+
+----
+
+Description: Après une semaine de remue-méninges et de bricolage intensifs, des particuliers ou des équipes de citoyens membres du FabLab présentent leur interprétations de l'enjeu que vous leur avez soumis.
+
+----
+
+Value: 20000
+
+----
+
+Cvalue: 60
+
+----
+
+Pvalue: 40
+
+----
+
+Rvalue: 25

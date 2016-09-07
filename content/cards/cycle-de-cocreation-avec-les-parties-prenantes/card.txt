@@ -1,0 +1,37 @@
+Title: Cycle de cocréation avec les parties prenantes
+
+----
+
+Phase: create
+
+----
+
+Objectif: Cocréez dans la durée pour faire émerger des stratégies de création de valeur
+
+----
+
+Topic: collaboration, strategie, agilite, reduction-des-couts
+
+----
+
+Capacity: mettre-en-place-un-hub-d-innovation, mettre-en-place-un-living-lab
+
+----
+
+Description: Vous construisez avec les parties prenantes des pistes de solution concrètes au cours d'une série de 4 à 5 ateliers de cocréation.
+
+----
+
+Value: 30000
+
+----
+
+Cvalue: 40
+
+----
+
+Pvalue: 45
+
+----
+
+Rvalue: 20

@@ -1,0 +1,33 @@
+Title: Plateforme numérique collaborative
+
+----
+
+Shortcode: PF
+
+----
+
+Objectif: Investissez dans des outils numériques favorisant la communication et la collaboration
+
+----
+
+Topic: attractivite, collaboration, strategie, infrastructure
+
+----
+
+Description: Vous développez un sentiment d'appartenance à l'organisation, facilitez l'émergence d'initiatives ainsi que la mobilisation et la participation de vos équipes.
+
+----
+
+Value: 25000
+
+----
+
+Cvalue: 10
+
+----
+
+Pvalue: 10
+
+----
+
+Rvalue: 10

@@ -1,0 +1,41 @@
+Title: Analyse de l'environnement
+
+----
+
+Phase: research
+
+----
+
+Objectif: Approfondissez votre compréhension du contexte pour mieux positionner votre intervention
+
+----
+
+Topic: alignement, differenciation, strategie
+
+----
+
+Capacity: 
+
+----
+
+Description: 
+
+Vous analysez l'environnement dans lequel vous intervenez pour mieux y adapter vos produits ou services.
+
+**2 cartes "Joueurs de l'industrie" + 5 points sociaux (S)**
+
+----
+
+Value: 10000
+
+----
+
+Cvalue: 
+
+----
+
+Pvalue: 
+
+----
+
+Rvalue: 

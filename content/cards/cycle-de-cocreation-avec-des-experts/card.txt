@@ -1,0 +1,37 @@
+Title: Cycle de cocréation avec des experts
+
+----
+
+Phase: create
+
+----
+
+Objectif: Cocréez dans la durée pour vous assurer du caractère innovant par rapport à vos connaissances actuelles
+
+----
+
+Topic: collaboration, strategie, agilite, reduction-des-couts
+
+----
+
+Capacity: investir-dans-la-communaute-de-start-ups, mettre-en-place-un-hub-d-innovation, mettre-en-place-un-living-lab
+
+----
+
+Description: Cette série de 4 à 5 ateliers de cocréation avec des experts apporte des pistes de solutions concrètes. Au-delà du brainstorming, ces ateliers permettent de comprendre ce qui est de l'innovation par rapport à vos connaissances actuelles.
+
+----
+
+Value: 30000
+
+----
+
+Cvalue: 55
+
+----
+
+Pvalue: 50
+
+----
+
+Rvalue: 20

@@ -1,0 +1,37 @@
+Title: Résidence d'innovation ouverte - création
+
+----
+
+Phase: create
+
+----
+
+Objectif: Cocréez dans le milieu de vie des usagers pour faire de meilleurs parallèles avec la réalité
+
+----
+
+Topic: alignement, differenciation, collaboration, agilite
+
+----
+
+Capacity: mettre-en-place-un-living-lab
+
+----
+
+Description: Après une semaine passée dans le milieu de vie des usagers, des pistes de design adaptées au contexte et aux besoins des usagers sont établies.
+
+----
+
+Value: 25000
+
+----
+
+Cvalue: 90
+
+----
+
+Pvalue: 75
+
+----
+
+Rvalue: 70

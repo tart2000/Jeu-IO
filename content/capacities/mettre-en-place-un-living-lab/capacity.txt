@@ -1,0 +1,33 @@
+Title: Mettre en place un Living Lab
+
+----
+
+Shortcode: LL
+
+----
+
+Objectif: Comprenez les comportements des usagers dans leurs milieux de vie et créez avec eux pour maximiser l'adoption
+
+----
+
+Topic: differenciation, collaboration, agilite, reduction-des-couts
+
+----
+
+Description: Vous créez une structure d'implication des usagers tout au long de projets d'innovation afin de favoriser la découverte d'un nouveau potentiel de marché dans votre secteur.
+
+----
+
+Value: 50000
+
+----
+
+Cvalue: 15
+
+----
+
+Pvalue: 15
+
+----
+
+Rvalue: 15
