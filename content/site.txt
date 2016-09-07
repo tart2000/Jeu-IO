@@ -1,16 +1,16 @@
-Title: Kirby Starterkit
+Title: Jeu IØ
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Arthur Schmitt
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Le Jeu IO
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: 
 
 ----
 
