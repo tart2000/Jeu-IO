@@ -3,8 +3,13 @@
 <div class="container-fluid mt">
 	<iframe width="100%" height="600px" src="https://www.youtube.com/embed/_5Mr6OqaGDY" frameborder="0" allowfullscreen></iframe>
 
-	<h1>Témoignages</h1>
-	<div class="row">
+	<div class="jumbotron mt">
+		<?php echo $page->text()->kirbytext() ?>
+	  <p><a class="btn btn-primary btn-lg" href="/about" role="button">En savoir plus</a></p>
+	</div>
+
+	
+	<div class="row mt">
 		<div class="col-sm-4">
 			<iframe width="560" height="200" src="https://www.youtube.com/embed/ovimF1JSzs0" frameborder="0" allowfullscreen></iframe>
 		</div>
@@ -16,8 +21,9 @@
 		</div>
 	</div>
 
-	<h1>8 points d'entrée business</h1>
-	<table class="home-icons">					
+	
+
+	<table class="home-icons mt">					
 		<?php foreach (page('topics')->children() as $topic) : ?>
 			<td>
 				<a href="<?php echo $topic->url() ?>">

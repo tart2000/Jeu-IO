@@ -62,9 +62,9 @@ body {
 }
 h2 {
   text-transform: uppercase;
-  text-align: center;
   font-size: 1.2em;
   font-weight: 300;
+  margin-bottom: 2px;
 }
 h3 {
   margin-top: 5px;
@@ -77,11 +77,14 @@ a:hover {
 .mt {
   margin-top: 50px;
 }
+.bmt {
+  margin-top: 75px;
+}
 .pt {
   padding-top: 50px;
 }
 
-/* Navbar */
+/* Homepage */
 
 .container img, .container-fluid img {
   max-width: 100%;
@@ -102,6 +105,9 @@ iframe {
 .home-icons .topic-icon {
   color: black;
   font-size: 32px;
+}
+.jumbotron {
+  background-color: #bdc3c7;
 }
 
 /* Navbar */
@@ -137,6 +143,12 @@ iframe {
   border-top-right-radius: 12px;
   height: 230px;
   position: relative;
+}
+.card-top h2, .center {
+  text-align: center;
+}
+.card-top em {
+  opacity: 0.6;
 }
 .research {
   background-color: #8e44ad;

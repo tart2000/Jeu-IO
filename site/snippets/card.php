@@ -8,6 +8,23 @@
 		} ?>
 		<div class="card-top <?php echo $color ?>">
 			<h2><?php echo $card->title() ?></h2>
+			<!-- Traduire la valeur de la phase en vrai mots -->
+			<?php $phase = $card->phase(); 
+				if ($phase == 'research') {
+					$phase = 'Rechercher';
+				} else if ($phase == 'create') {
+					$phase = 'Créer';
+				} else if ($phase == 'explore') {
+					$phase = 'Explorer';
+				} else if ($phase == 'experiment') {
+					$phase = 'Expérimenter';
+				} else if ($phase == 'evaluate') {
+					$phase = 'Évaluer';
+				} else if ($card->template()=='capacity') {
+					$phase = 'Développement de compétence';
+				};
+			?>
+			<div class="center"><em>- <?php echo $phase ?> -</em></div>
 			<p><?php echo $card->objectif() ?></p>
 		
 			<div class="faded">
