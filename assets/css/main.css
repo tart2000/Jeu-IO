@@ -74,6 +74,9 @@ h3 {
 a:hover {
   text-decoration: none;
 }
+.smt {
+  margin-top: 25px;
+}
 .mt {
   margin-top: 50px;
 }
@@ -83,8 +86,47 @@ a:hover {
 .pt {
   padding-top: 50px;
 }
+.right {
+  float: right;
+}
 
 /* Homepage */
+video#bgvid { 
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  background: url(../images/video_snap.png) no-repeat;
+  background-size: cover; 
+}
+#cover {
+  position: relative;
+}
+#cover-text {
+  position: absolute;
+  top: 0px;
+  margin-top: 160px; 
+  /* background-color: rgba(255,255,255,0.8); */
+  color: white;
+}
+#cover-text h1 {
+  font-size: 4em;
+}
+#cover-text p {
+  font-size: 2em;
+}
+.overlay {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQYV2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXQdISfAAAAAElFTkSuQmCC);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: -5px;
+}
+.number {
+  font-size: 100px;
+  font-weight: 300;
+}
 
 .container img, .container-fluid img {
   max-width: 100%;
@@ -92,10 +134,7 @@ a:hover {
 .container iframe, .container-fluid iframe {
   max-width: 100%;
 }
-iframe {
-  padding-left: 5px;
-  padding-right: 5px;
-}
+
 .home-icons {
   width: 100%;
 }
@@ -242,6 +281,8 @@ iframe {
 
 /* reste du site */
 
-.footer {
-  padding: 15px;
+#footer {
+  padding: 15px; 
+  margin-top: 40px;
+  border-top: solid 1px grey;
 }

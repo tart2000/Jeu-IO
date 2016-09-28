@@ -1,27 +1,63 @@
 <?php snippet('header') ?>
 
+<div id="cover">
+	<video autoplay muted loop poster="<?php echo $site->url() ?>/assets/images/video_snap.png" id="bgvid">
+	    <source src="<?php echo $site->url() ?>/assets/video/JeuIO_webm.webm" type="video/webm">
+	    <source src="<?php echo $site->url() ?>/assets/video/JeuIO_web.mp4" type="video/mp4">
+	</video>
+
+	<div class="overlay">
+	</div>
+
+	<div class="container-fluid" id="cover-text">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+				<h1>Un jeu sérieux pour comprendre l'Innovation Ouverte et développer des stratégies de collaboration</h1>
+				<p>Ateliers de 4 à 6h</p>
+				<a class="btn btn-primary btn-lg" href="/about" role="button">En savoir plus</a>
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="container-fluid mt">
-	<iframe width="100%" height="600px" src="https://www.youtube.com/embed/_5Mr6OqaGDY" frameborder="0" allowfullscreen></iframe>
 
-	<div class="jumbotron mt">
-		<?php echo $page->text()->kirbytext() ?>
-	  <p><a class="btn btn-primary btn-lg" href="/about" role="button">En savoir plus</a></p>
-	</div>
+	<div class="row numbers">
+		<div class="col-sm-4 center">
+			<span class="number">60</span>
+			<h3>Leviers d'action</h3>
+		</div>
+		<div class="col-sm-4 center">
+			<span class="number">200+</span>
+			<h3>Entreprises formées</h3>
+		</div>
+		<div class="col-sm-4 center">
+			<span class="number">8</span>
+			<h3>Entrées business clés</h3>
+		</div>
+	</div><!-- end numbers row -->
 
-	
 	<div class="row mt">
-		<div class="col-sm-4">
-			<iframe width="560" height="200" src="https://www.youtube.com/embed/ovimF1JSzs0" frameborder="0" allowfullscreen></iframe>
-		</div>
-		<div class="col-sm-4">
-			<iframe width="560" height="200" src="https://www.youtube.com/embed/_QqvFiWKOlI" frameborder="0" allowfullscreen></iframe>
-		</div>
-		<div class="col-sm-4">
-			<iframe width="560" height="200" src="https://www.youtube.com/embed/HJyNU3uOciU" frameborder="0" allowfullscreen></iframe>
-		</div>
+		<img src="assets/images/jeu_images.jpg">
 	</div>
 
-	
+	<div class="row mt">
+		<div class="col-xs-6">
+			<h1 >Les cartes</h1>
+		</div>
+		<div class="col-xs-6">
+			<a href="/cards" class="right btn btn-default smt">Toutes les cartes</a>
+		</div>
+	</div>
+	<div class="owl-carousel" id="cards">
+		<?php $cards = page('cards')->children() ?>
+		<?php $caps = page('capacities')->children() ?>
+		<?php $cards = $cards->merge($caps)  ?>
+
+		<?php foreach ($cards->shuffle() as $card) : ?>
+			<?php snippet('card',array('card'=>$card)) ?>
+		<?php endforeach ?>
+	</div><!-- end cards carousel -->
 
 	<table class="home-icons mt">					
 		<?php foreach (page('topics')->children() as $topic) : ?>
@@ -33,19 +69,6 @@
 		<?php endforeach ?>
 	</table>
 
-	<h1>Développement des compétences</h1>
-	<div class="owl-carousel" id="owl-1">
-		<?php foreach (page('capacities')->children() as $card) : ?>
-			<?php snippet('card',array('card'=>$card)) ?>
-		<?php endforeach ?>
-	</div>
-
-	<h1><a href="/cards">Cartes action</a></h1>
-	<div class="owl-carousel" id="owl-2">
-		<?php foreach (page('cards')->children()->shuffle() as $card) : ?>
-			<?php snippet('card',array('card'=>$card)) ?>
-		<?php endforeach ?>
-	</div><!-- end row -->
 </div><!-- end container -->
 
 <?php snippet('footer') ?>

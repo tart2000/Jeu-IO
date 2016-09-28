@@ -10,15 +10,15 @@
     <?php foreach (page('topics')->children() as $topic) : ?>
       <td>
         <a href="<?php echo $topic->url() ?>">
-          <i class="fa fa-<?php echo $topic->icon() ?> topic-icon"></i>
+          <i class="fa fa-<?php echo $topic->icon() ?> <?php e($topic->url() == $page->url(),'selected') ?> topic-icon"></i>
           </a>
       </td>
     <?php endforeach ?>
   </table>
 
   <div class="container-fluid">
-  	<h1><?php echo $page->title() ?> <i class="fa fa-<?php echo $page->icon() ?>"></i> (<?php echo $count ?>)</h1> 
-    <?php echo $page->description() ?>
+  	<h1><?php echo $page->description() ?> <i class="fa fa-<?php echo $page->icon() ?>"></i> (<?php echo $count ?>)</h1> 
+    <?php echo $page->title() ?>
   	<div class="row">
   		<?php foreach ($cards as $card) : ?>
   			<div class="col-sm-4 col-md-3">

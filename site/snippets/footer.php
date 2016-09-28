@@ -1,6 +1,6 @@
-  <footer class="footer">
+  <footer id="footer">
   	<div class="container-fluid">
-	  	Un projet de <a href="http://rhizome-strategies.com">Rhizome</a>
+	  	Un projet de <a href="http://rhizome-strategies.com">Rhizome</a> avec le soutien du <a href="https://www.economie.gouv.qc.ca/accueil/?no_cache=1" target="_blank">Ministère de l'Économie, de la Science et de l'Innovation</a>.
 	 </div>
   </footer>
 
@@ -10,11 +10,9 @@
 	<?php echo js('assets/owl-carousel/owl.carousel.js') ?>
 	<script type="text/javascript">
 		$(document).ready(function() {
-			$("#owl-1").owlCarousel({
-				items:4
-			});
-			$("#owl-2").owlCarousel({
-				items:4
+			$("#cards").owlCarousel({
+				items:4,
+				autoPlay: true
 			});
 		});
 	</script>
