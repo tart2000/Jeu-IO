@@ -71,6 +71,9 @@ h3 {
   margin-bottom: 0px !important;
   font-size: 20px;
 }
+hr {
+  border-top: 1px solid #8c8b8b;
+}
 a:hover {
   text-decoration: none;
 }
@@ -88,6 +91,9 @@ a:hover {
 }
 .right {
   float: right;
+}
+.left {
+  float: left;
 }
 
 /* Homepage */
@@ -127,7 +133,23 @@ video#bgvid {
   font-size: 100px;
   font-weight: 300;
 }
-
+.word {
+  padding-left: 45px;
+  padding-right: 45px;
+  color: #8c8b8b;
+}
+.quote {
+  background-color: white;
+  border-bottom: #8c8b8b 1px solid;
+  padding: 15px;
+}
+.word .fa {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.word p {
+  font-size: 16px;
+}
 .container img, .container-fluid img {
   max-width: 100%;
 }
@@ -283,6 +305,6 @@ video#bgvid {
 
 #footer {
   padding: 15px; 
-  margin-top: 40px;
+  margin-top: 80px;
   border-top: solid 1px grey;
 }

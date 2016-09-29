@@ -41,7 +41,7 @@
 		<img src="assets/images/jeu_images.jpg">
 	</div>
 
-	<div class="row mt">
+	<div class="row mt"> <!-- Les cartes -->
 		<div class="col-xs-6">
 			<h1 >Les cartes</h1>
 		</div>
@@ -59,7 +59,7 @@
 		<?php endforeach ?>
 	</div><!-- end cards carousel -->
 
-	<table class="home-icons mt">					
+	<table class="home-icons smt">					
 		<?php foreach (page('topics')->children() as $topic) : ?>
 			<td>
 				<a href="<?php echo $topic->url() ?>">
@@ -68,6 +68,27 @@
 			</td>
 		<?php endforeach ?>
 	</table>
+
+	<div class="row bmt" id="words">
+		<div class="col-sm-6 center word">
+			<div class="quote">
+				<p><i class="fa fa-quote-left"></i>
+				Vraiment une superbe expérience très enrichissante que je recommande fortement !
+	Un concept ludique très pertinent et mené en maître par Christophe Billebaud et Elsa Bruyere.<i class="fa fa-quote-right"></i></p>
+			</div>
+			<h3>Carl Boutet</h3>
+			<em>Retail & Customer Experience Strategist et General Manager, Mega Group</em>
+		</div>
+		<div class="col-sm-6 center word">
+			<div class="quote">
+				<p><i class="fa fa-quote-left"></i>
+				Je suis sortie ravie et très stimulée par la formation : Merci à l’équipe. Niveau dynamisme, les impacts ont été ressentis immédiatement… Ce qui s’en vient c’est l’application et l’utilisation !<i class="fa fa-quote-right"></i></p>
+			</div>
+			<h3>Julie Bréchet</h3>
+			<em>Chargée de projets, H2j Conseil</em>
+		</div>
+
+	</div>
 
 </div><!-- end container -->
 
