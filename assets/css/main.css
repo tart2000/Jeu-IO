@@ -122,6 +122,9 @@ video#bgvid {
 #cover-text p {
   font-size: 2em;
 }
+.exp {
+  /* font-size: 1.4em; */
+}
 .overlay {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQYV2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXQdISfAAAAAElFTkSuQmCC);
   height: 100%;
@@ -132,6 +135,12 @@ video#bgvid {
 .number {
   font-size: 100px;
   font-weight: 300;
+}
+.numbers h2 {
+  margin-top: -10px;
+}
+.row li {
+  margin-left: 25px;
 }
 .word {
   padding-left: 45px;

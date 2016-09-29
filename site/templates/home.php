@@ -12,7 +12,7 @@
 	<div class="container-fluid" id="cover-text">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2">
-				<h1>Un jeu sérieux pour comprendre l'Innovation Ouverte et développer des stratégies de collaboration</h1>
+				<h1>IØ : un jeu sérieux pour comprendre l'Innovation Ouverte et développer des stratégies de collaboration</h1>
 				<p>Ateliers de 4 à 6h</p>
 				<a class="btn btn-primary btn-lg" href="/about" role="button">En savoir plus</a>
 			</div>
@@ -25,17 +25,34 @@
 	<div class="row numbers">
 		<div class="col-sm-4 center">
 			<span class="number">60</span>
-			<h3>Leviers d'action</h3>
+			<h2>Leviers d'action</h2>
 		</div>
 		<div class="col-sm-4 center">
 			<span class="number">200+</span>
-			<h3>Entreprises formées</h3>
+			<h2>Entreprises formées</h2>
 		</div>
 		<div class="col-sm-4 center">
 			<span class="number">8</span>
-			<h3>Entrées business clés</h3>
+			<h2>Entrées business clés</h2>
 		</div>
 	</div><!-- end numbers row -->
+
+	<div class="row bmt exp">
+		<div class="col-sm-6">
+			<?php echo $page->text()->kirbytext() ?>
+			<a class="btn btn-primary" href="/about" role="button">En savoir plus</a>
+		</div>
+		<div class="col-sm-6">
+			<h3>1. BÂTISSEZ</h3>
+			<p>Une stratégie ouverte avec une étude de cas en conditions réelles.</p>
+			<br>
+			<h3>2. JOUEZ</h3>
+			<p>En exerçant votre rôle dont les attentes et contraintes vous seront données.</p>
+			<br>
+			<h3>3. DÉVELOPPEZ</h3>
+			<p>Un stratégie pour innover dans vos projets.</p>
+		</div>
+	</div>
 
 	<div class="row mt">
 		<img src="assets/images/jeu_images.jpg">
@@ -69,7 +86,7 @@
 		<?php endforeach ?>
 	</table>
 
-	<div class="row bmt" id="words">
+	<div class="row bmt" id="words"> <!-- Témoignages -->
 		<div class="col-sm-6 center word">
 			<div class="quote">
 				<p><i class="fa fa-quote-left"></i>
@@ -88,7 +105,8 @@
 			<em>Chargée de projets, H2j Conseil</em>
 		</div>
 
-	</div>
+		<!-- Mettre logos ici -->
+	</div> 
 
 </div><!-- end container -->
 

@@ -4,8 +4,15 @@ Title: Home
 
 Text: 
 
-#IØ : le jeu de l'innovation ouverte
+**IØ est un jeu sérieux développé par l'équipe de Rhizome pour aider les entreprises à comprendre l'innovation ouverte et à développer des stratégies pour en tirer le meilleur.**
 
-Un jeu sérieux développé par l'équipe de Rhizome pour aider les entreprises à comprendre l'innovation ouverte et à développer des stratégies pour en tirer le meilleur.
+###Pour qui ?
 
-4 à 6 joueurs - Atelier de 3 à 4h
+- Dirigeants
+- Marketing
+- Recherche et développement
+- Finances
+- Opérations
+- Ressources humaines
+
+Pendant un atelier 4 à 6h, des équipes de 4 à 6 personnes sont amenées à résoudre collectivement une problématique.
