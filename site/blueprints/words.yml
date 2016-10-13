@@ -1,0 +1,15 @@
+title: Words
+pages:
+  template:
+    - word
+  num:
+    mode: default
+    display: null
+  max: null
+  sort: false
+  hide: false
+files: false 
+fields:
+  title:
+    label: Title
+    type: title

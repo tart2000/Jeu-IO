@@ -12,8 +12,7 @@
 	<div class="container-fluid" id="cover-text">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2">
-				<h1>IØ : un jeu sérieux pour comprendre l'Innovation Ouverte et développer des stratégies de collaboration</h1>
-				<p>Ateliers de 4 à 6h</p>
+				<?php echo $page->baseline()->kirbytext() ?>
 				<a class="btn btn-primary btn-lg" href="/about" role="button">En savoir plus</a>
 			</div>
 		</div>
@@ -24,43 +23,37 @@
 
 	<div class="row numbers">
 		<div class="col-sm-4 center">
-			<span class="number">60</span>
-			<h2>Leviers d'action</h2>
+			<span class="number"><?php echo $page->n1() ?></span>
+			<h2><?php echo $page->t1() ?></h2>
 		</div>
 		<div class="col-sm-4 center">
-			<span class="number">200+</span>
-			<h2>Entreprises formées</h2>
+			<span class="number"><?php echo $page->n2() ?></span>
+			<h2><?php echo $page->t2() ?></h2>
 		</div>
 		<div class="col-sm-4 center">
-			<span class="number">8</span>
-			<h2>Entrées business clés</h2>
+			<span class="number"><?php echo $page->n3() ?></span>
+			<h2><?php echo $page->t3() ?></h2>
 		</div>
 	</div><!-- end numbers row -->
 
 	<div class="row bmt exp">
 		<div class="col-sm-6">
 			<?php echo $page->text()->kirbytext() ?>
-			<a class="btn btn-primary" href="/about" role="button">En savoir plus</a>
 		</div>
 		<div class="col-sm-6">
-			<h3>1. BÂTISSEZ</h3>
-			<p>Une stratégie ouverte avec une étude de cas en conditions réelles.</p>
-			<br>
-			<h3>2. JOUEZ</h3>
-			<p>En exerçant votre rôle dont les attentes et contraintes vous seront données.</p>
-			<br>
-			<h3>3. DÉVELOPPEZ</h3>
-			<p>Un stratégie pour innover dans vos projets.</p>
+			<?php echo $page->text2()->kirbytext() ?>
+			<a class="btn btn-primary" href="/about" role="button">En savoir plus</a>
+
 		</div>
 	</div>
 
 	<div class="row mt">
-		<img src="assets/images/jeu_images.jpg">
+		<img src="assets/images/jeu_images.png">
 	</div>
 
 	<div class="row mt"> <!-- Les cartes -->
 		<div class="col-xs-6">
-			<h1 >Les cartes</h1>
+			<h1 >Les leviers d'innovation ouverte</h1>
 		</div>
 		<div class="col-xs-6">
 			<a href="/cards" class="right btn btn-default smt">Toutes les cartes</a>
@@ -86,27 +79,29 @@
 		<?php endforeach ?>
 	</table>
 
-	<div class="row bmt" id="words"> <!-- Témoignages -->
-		<div class="col-sm-6 center word">
-			<div class="quote">
-				<p><i class="fa fa-quote-left"></i>
-				Vraiment une superbe expérience très enrichissante que je recommande fortement !
-	Un concept ludique très pertinent et mené en maître par Christophe Billebaud et Elsa Bruyere.<i class="fa fa-quote-right"></i></p>
+	<!-- Témoignages -->
+	<div class="row bmt" id="words"> 
+		<?php foreach (page('words')->children()->limit(2) as $w) : ?>
+			<div class="col-sm-6 center word">
+				<div class="quote">
+					<i class="fa fa-quote-left"></i>
+					<?php echo $w->text()->kirbytext() ?>
+					<i class="fa fa-quote-right"></i>
+				</div>
+				<h3><?php echo $w->title() ?></h3>
+				<em><?php echo $w->company() ?></em>
 			</div>
-			<h3>Carl Boutet</h3>
-			<em>Retail & Customer Experience Strategist et General Manager, Mega Group</em>
-		</div>
-		<div class="col-sm-6 center word">
-			<div class="quote">
-				<p><i class="fa fa-quote-left"></i>
-				Je suis sortie ravie et très stimulée par la formation : Merci à l’équipe. Niveau dynamisme, les impacts ont été ressentis immédiatement… Ce qui s’en vient c’est l’application et l’utilisation !<i class="fa fa-quote-right"></i></p>
-			</div>
-			<h3>Julie Bréchet</h3>
-			<em>Chargée de projets, H2j Conseil</em>
-		</div>
-
-		<!-- Mettre logos ici -->
+		<?php endforeach ?>
 	</div> 
+
+	<!-- Mettre logos ici -->
+	<div class="row bmt">
+		<?php foreach (page('logos')->images()->limit(4) as $l) : ?>
+			<div class="col-sm-3 client">
+				<img src="<?php echo $l->url() ?>" class="client-logo">
+			</div>
+		<?php endforeach ?>
+	</div>
 
 </div><!-- end container -->
 

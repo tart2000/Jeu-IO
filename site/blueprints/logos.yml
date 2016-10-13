@@ -1,0 +1,14 @@
+title: Logos
+pages:
+  template: false 
+  num:
+    mode: default
+    display: null
+  max: null
+  sort: false
+  hide: false
+files: true
+fields:
+  title:
+    label: Title
+    type: title

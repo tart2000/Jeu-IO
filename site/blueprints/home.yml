@@ -4,6 +4,36 @@ fields:
   title:
     label: Title
     type:  text
+  baseline: 
+  	label: Video baseline 
+  	type: textarea
+  n1: 
+  	label: Chiffre levier 1 
+  	type: text
+  	width: 1/2  
+  t1: 
+  	label: Texte levier 1 
+  	type: text 
+  	width: 1/2 
+  n2: 
+  	label: Chiffre levier 2 
+  	type: text
+  	width: 1/2  
+  t2: 
+  	label: Texte levier 2 
+  	type: text 
+  	width: 1/2 
+  n3: 
+  	label: Chiffre levier 3 
+  	type: text
+  	width: 1/2  
+  t3: 
+  	label: Texte levier 3 
+  	type: text 
+  	width: 1/2 
   text:
-    label: Text
+    label: Text (colonne gauche)
     type:  textarea
+  text2: 
+  	label: Text (colonne droite)
+  	type: textarea

@@ -16,3 +16,47 @@ Text:
 - Ressources humaines
 
 Pendant un atelier 4 à 6h, des équipes de 4 à 6 personnes sont amenées à résoudre collectivement une problématique.
+
+----
+
+N1: 60
+
+----
+
+T1: Leviers d'action
+
+----
+
+N2: 200+
+
+----
+
+T2: Entreprises formées
+
+----
+
+N3: 8
+
+----
+
+T3: Enjeux business clés
+
+----
+
+Baseline: 
+
+#IØ : un jeu sérieux pour comprendre l'Innovation Ouverte et développer des stratégies de collaboration
+Ateliers de 4 à 6h
+
+----
+
+Text2: 
+
+###1. BÂTISSEZ
+Une stratégie ouverte avec une étude de cas en conditions réelles.
+
+###2. JOUEZ
+En exerçant votre rôle dont les attentes et contraintes vous seront données.
+
+###3. DÉVELOPPEZ
+Un stratégie pour innover dans vos projets.
