@@ -15,4 +15,9 @@ fields:
     type:  tags
   copyright:
     label: Copyright
-    type:  textarea
+    type:  text
+    width: 1/2
+  analytics: 
+    label: Google analytics
+    type: text 
+    width: 1/2

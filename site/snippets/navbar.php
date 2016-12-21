@@ -26,7 +26,8 @@
             <form class="navbar-form navbar-right">
               <select class="form-control" class="selectpicker" id="selectFilter">
                 <option value="all">Toutes les cartes</option>
-                <option value="researchx">Recercher</option>
+                <option value="researchx">Rechercher</option>
+                <option value="capacityx">Développement</option>
                 <option value="createx">Créer</option>
                 <option value="explorex">Explorer</option>
                 <option value="experimentx">Expérimenter</option>

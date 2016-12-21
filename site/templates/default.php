@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="container mt" role="main">
+  <main class="container default mt" role="main">
 
     <div class="text">
       <h1><?php echo $page->title()->html() ?></h1>

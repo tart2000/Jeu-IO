@@ -4,15 +4,103 @@ Title: À propos
 
 Text: 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+Le jeu IØ est un jeu sérieux qui a pour objectif de sensibiliser les professionnels aux pratiques liées à l’innovation ouverte. Il se joue dans des sessions de 4 à 6h données par des animateurs professionnels (une dizaine formés au Québec à ce jour). Il peut être donné à des groupes de 4 à 100 personnes. 
 
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
+Le jeu IØ fait partie des Meilleures Pratiques d’Affaires (MPA) du Ministère de l'Économie, de la Science et de l'Innovation du Québec (MESI). 
 
-(image: about.jpg)
+(image: cpr.png)
 
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+#Principes, règles et composition 
 
-#### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+IØ est un jeu collaboratif. Les joueurs sont réunis en un consortium, et représentent chacun un des acteurs du consortium (entreprise, laboratoire de recherche, etc.). Les joueurs peuvent, au départ, choisir l’organisation qu’ils représentent parmi 8 choix. Chaque organisation vient avec un historique et un budget. Certaines peuvent aussi venir avec des compétences bonus qui pourront être utilisées par le groupe à un moment donné. 
+
+L’objectif pour le consortium est de développer de nouveaux produits en générant le maximum de valeur. Mais chaque joueur (et membre du consortium) a aussi des objectifs personnels, qu’il se doit d’atteindre. C’est dans cette tension entre l’individuel et le collaboratif que la majorité des discussions vont se jouer. 
+
+À chaque tour, le consortium doit prendre une décision sur le ou les programmes à mettre en place (cartes à jouer) en fonction de la phase dans laquelle il se trouve, de sa maturité, de la somme qui lui reste à dépenser, sans oublier les objectifs individuels de chacun. 
+
+Chaque carte ACTION coûte un certain prix IØ et certaines nécessitent un niveau minimum de points CPR (voir plus bas). 
+
+##Enjeux personnels 
+
+Il existe 8 enjeux personnels : 
+
+- Alignement du marché, attentes des consommateurs
+- Différenciation, meilleur accès au marché
+- Attractivité, rétention du personnel
+- Collaboration interne et externe, innovation collaborative 
+- Priorisation des projets
+- Infrastructure, investissement technologique et numérique
+- Agilité, innovation, réduction des risques
+- Réduction des coûts, efficience, consolidation de la chaîne de valeur 
+
+Chaque carte ACTION est associée à un ou plusieurs de ces enjeux et chaque joueur doit s'assurer que ses enjeux sont traités pendant la partie. 
+
+##Maturité 
+
+La maturité du consortium est calculée selon 3 axes :
+
+- C : Culture 
+- P : Process 
+- R : Ressources 
+
+Au départ, la maturité est calculée en additionnant la maturité de chacune des organisations du consortium. À chaque phase de jeu, le consortium a l'opportunité de développer ses capacités selon chacun des axes CPR en mettant en place différents projets. C'est ce développement de capacités qui va lui permettre d'accéder à des cartes ACTION de plus en plus fortes. De plus, les cartes CAPACITÉS structurantes (fablab, living lab, etc.) vont ensuite permettre d'acheter à moitié prix certaines cartes ACTION. Pour être efficace, le consortium doit développer chacune de ses capacités de manière équilibrée, sans en négliger aucune. 
+
+##Valeur produite 
+
+La valeur produite par le consortium est calculée selon 3 axes : 
+
+- K : *Knowledge* (Connaissance) 
+- S : Social 
+- B : *Business* (Affaire)  
+
+Ainsi, chaque carte ACTION est associée à une valeur KSB et cette valeur dépend de la phase dans laquelle le groupe se trouve. En effet, certaines actions seront plus efficaces au départ d'un projet, alors que d'autres seront à privilégier pendant la phase de déploiement. À l'issue de chaque phase, les valeurs KSB créées par le consortium sont valorisées en nombre de concepts, prototypes ou produits développés, ainsi qu'en retour financier. 
+
+##Déroulement 
+
+Le jeu est divisé en 4 phases successives : 
+
+1. Approfondissement (recherche) 
+1. Conception 
+1. Prototypage 
+1. Déploiement 
+
+Le déroulement peut être synthétisé ainsi : 
+
+(image: cpr2.png)
+
+##Contenu
+
+Le jeu comporte : 
+
+- 1 plateau de jeu 
+- 8 profils d'organisations 
+- 3 pions pour comptabiliser les valeurs C, P et R. 
+- des billets IØ 
+- 8 cartes APPROFONDISSEMENT (et 15 cartes RESULTATS DE RECHERCHE, dans 3 catégories différentes)
+- 13 cartes DÉVELOPPEMENT DES CAPACITÉS dont 6 cartes court terme et 7 cartes structurantes
+- 20 cartes actions (dont 18 cartes CRÉER, 7 cartes EXPLORER, 8 cartes EXPÉRIMENTER, 5 cartes ÉVALUER)
+- 9 cartes PERTURBATION
+- 3 cartes BONUS
+- 6 jeux 'aide-mémoire' individuels 
+- 27 jetons résultats (CONCEPT, PROTOTYPE, PRODUIT)
+
+(la plupart des cartes sont visibles sur ce site)
+
+(image: plateau_jeuio.jpg)
+
+*Le jeu étant en amélioration permanente, il est possible que la version à laquelle vous pourrez jouer diffère des éléments et règles présentés ici. *
+
+#FAQ
+
+##Est-ce possible de perdre ? 
+
+Oui, si le consortium arrive à court d’argent avant la fin du jeu.
+
+##Combien ça coûte ? 
+
+Une journée coûte 800$*. Une partie des frais peut être couverte par le MESI sous certaines conditions. 
+**Selon le nombre de participants, ce prix peut varier.*
+
+##Existe-t-il une version plus courte que 4 heures ? 
+
+Oui, nous avons aussi développé une version courte du jeu, qui prend environ 45 minutes.

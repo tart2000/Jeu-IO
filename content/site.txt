@@ -6,12 +6,16 @@ Author: Arthur Schmitt
 
 ----
 
-Description: Le Jeu IO
+Description: Le jeu sérieux pour comprendre l'innovation ouverte et la mettre en action !
 
 ----
 
-Keywords: 
+Keywords: open innovation,innovation ouverte,innovation,jeu,ludification,entreprise,découverte
 
 ----
 
 Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+
+----
+
+Analytics: 

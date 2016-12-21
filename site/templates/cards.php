@@ -2,7 +2,11 @@
 
   <div class="container-fluid mt">
 
-  <?php $subpages   = $page->children()->sortBy('phase') ?>
+  <?php $cards = page('cards')->children() ?>
+  <?php $caps = page('capacities')->children() ?>
+  <?php $subpages = $cards->merge($caps)  ?>
+
+  <?php $subpages   = $subpages->sortBy('phase') ?>
 	<?php if($tag = param('sort')) : ?>
     <?php if ($tag == 'alpha') {
       $subpages = $subpages->sortBy('title');
@@ -34,7 +38,12 @@
 
   	<div class="row">
   		<?php foreach ($subpages as $card) : ?>
-  			<div class="col-sm-4 col-md-3 <?php echo $card->phase().'x' ?> hideable">
+          <?php if ($card->template() == 'card') {
+            $color=$card->phase();
+          } else { 
+            $color='capacity';
+          } ?>
+  			<div class="col-sm-4 col-md-3 <?php echo $color.'x' ?> hideable">
 	  			<?php snippet('card', array('card'=>$card)) ?>
 	  		</div>
 	  	<?php endforeach ?>

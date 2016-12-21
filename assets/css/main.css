@@ -208,6 +208,7 @@ video#bgvid {
   box-shadow: none;
 }
 
+
 /* CSS de la carte */
 
 .pad {
@@ -328,6 +329,23 @@ video#bgvid {
 }
 
 /* reste du site */
+
+.default {
+  max-width: 780px;
+}
+.text img {
+  padding-bottom: 15px;
+}
+.text li {
+  margin-left: 15px;
+}
+.text ul, .text ol {
+  margin-bottom: 15px;
+  font-size: 1.1em;
+}
+.text p, .exp p {
+  font-size: 1.1em;
+}
 
 #footer {
   padding: 15px; 

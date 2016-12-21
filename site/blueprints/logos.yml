@@ -1,13 +1,7 @@
 title: Logos
-pages:
-  template: false 
-  num:
-    mode: default
-    display: null
-  max: null
-  sort: false
-  hide: false
-files: true
+pages: false
+files: 
+  sortable: true
 fields:
   title:
     label: Title
